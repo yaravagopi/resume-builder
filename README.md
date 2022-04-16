@@ -49,4 +49,4 @@ flask run
 ```
 
 ---
-<div center>Copyright&copy;: <a href="https://www.linkedin.com/in/abhinav-pamarthi" target="_blank">Abhinav Pamarthi</a></div>
+<div center>Copyright&copy;: <a href="https://github.com/yaravagopi" target="_blank">Gopinath Reddy</a></div>
